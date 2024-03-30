@@ -1,0 +1,7 @@
+def Factorial Iterativo(num) {
+  int n = 1
+  repeat( int i = 1; i <=num; i++){
+      n=n*i;
+    }
+    show(n);
+  }

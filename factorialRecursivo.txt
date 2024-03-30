@@ -1,0 +1,10 @@
+def FactorialRecursivo(num){
+    if( num = 1){
+       resultado = 1;
+       show("El resultado es" + resultado);
+    } else if (num>1){ 
+       resultado = n*FactorialRecursivo(n-1);
+       show("El resultado es: " + resultado);
+       
+       }
+}
